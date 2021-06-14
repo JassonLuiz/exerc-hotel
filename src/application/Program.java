@@ -10,7 +10,7 @@ public class Program {
 
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.print("Informe a quantidade quartos a serem alugados: ");
+		System.out.print("Informe a quantidade de quartos a serem alugados: ");
 		int qtd = sc.nextInt();
 		
 		Room[] vect = new Room[10];
